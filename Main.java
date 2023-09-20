@@ -38,7 +38,7 @@ public class Main {
             word = "altid";
         }
         else {
-            word = "aldrig";
+            word = "NEVER";
         }
         return word;
     }
